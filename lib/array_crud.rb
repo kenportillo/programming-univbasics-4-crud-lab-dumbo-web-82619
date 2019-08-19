@@ -7,8 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  Led_Zep = ["Page", "Plant", "Jones"]
-  Led_Zep << "Bonham"
+  array = []
 end
 
 def add_element_to_start_of_array(array, element)
